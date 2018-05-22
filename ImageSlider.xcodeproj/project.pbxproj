@@ -14,6 +14,7 @@
 		A3A3751D20B4234B003B1594 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A3A3751B20B4234B003B1594 /* LaunchScreen.storyboard */; };
 		A3A3752820B4234B003B1594 /* ImageSliderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3A3752720B4234B003B1594 /* ImageSliderTests.swift */; };
 		A3A3753320B4234B003B1594 /* ImageSliderUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3A3753220B4234B003B1594 /* ImageSliderUITests.swift */; };
+		A3A3754120B42799003B1594 /* circle.png in Resources */ = {isa = PBXBuildFile; fileRef = A3A3754020B42799003B1594 /* circle.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		A3A3752E20B4234B003B1594 /* ImageSliderUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ImageSliderUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3A3753220B4234B003B1594 /* ImageSliderUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSliderUITests.swift; sourceTree = "<group>"; };
 		A3A3753420B4234B003B1594 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A3A3754020B42799003B1594 /* circle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = circle.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				A3A3751920B4234B003B1594 /* Assets.xcassets */,
 				A3A3751B20B4234B003B1594 /* LaunchScreen.storyboard */,
 				A3A3751E20B4234B003B1594 /* Info.plist */,
+				A3A3754020B42799003B1594 /* circle.png */,
 			);
 			path = ImageSlider;
 			sourceTree = "<group>";
@@ -232,6 +235,7 @@
 				A3A3751D20B4234B003B1594 /* LaunchScreen.storyboard in Resources */,
 				A3A3751A20B4234B003B1594 /* Assets.xcassets in Resources */,
 				A3A3751820B4234A003B1594 /* Main.storyboard in Resources */,
+				A3A3754120B42799003B1594 /* circle.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
